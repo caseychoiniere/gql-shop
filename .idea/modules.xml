@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/lesson-8.iml" filepath="$PROJECT_DIR$/.idea/lesson-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gql-shop/.idea/gql-shop.iml" filepath="$PROJECT_DIR$/../gql-shop/.idea/gql-shop.iml" />
     </modules>
   </component>
 </project>
