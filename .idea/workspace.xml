@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af660132-d6b0-4132-88a6-f04f779a4a9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/collections-overview/collections-overview-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/collections-overview/collections-overview.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/collection/collection-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/collection/collection.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop-data.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/collection-preview/collection-preview.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout-styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout-styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/directory/directory-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/directory/directory-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop-reducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/shop/shop-selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/shop/shop-selectors.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/redux/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +92,7 @@
       <workItem from="1579038724023" duration="109000" />
       <workItem from="1579038865005" duration="692000" />
       <workItem from="1579039657335" duration="431000" />
-      <workItem from="1579123280999" duration="10979000" />
+      <workItem from="1579123280999" duration="12821000" />
     </task>
     <servers />
   </component>
