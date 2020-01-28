@@ -1,7 +1,13 @@
-import { shopData } from '../../pages/shop/shop-data';
+import {
+	UPDATE_COLLECTIONS,
+	FETCH_COLLECTIONS_START,
+	FETCH_COLLECTIONS_SUCCESS,
+	FETCH_COLLECTIONS_FAILURE,
+} from './shop-types';
 
 const INITIAL_STATE = {
-	collections: shopData,
+	collections: null,
+	errorMessage: undefined,
 };
 
 const shopReducer = (
@@ -9,6 +15,18 @@ const shopReducer = (
 	action,
 ) => {
 	switch (action.type) {
+		case FETCH_COLLECTIONS_SUCCESS: {
+			return {
+				...state,
+				collections: action.payload,
+			};
+		}
+		case FETCH_COLLECTIONS_FAILURE: {
+			return {
+				...state,
+				errorMessage: action.payload,
+			};
+		}
 		default:
 			return state;
 	}
